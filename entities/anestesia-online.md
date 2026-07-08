@@ -20,11 +20,11 @@ Proyecto para implementar la autorización online de prestaciones de anestesia.
 
 ## Pendientes
 
-- Mostrar proyecto a Marcos Caputo antes del alta
+- Reunión con Vanina, Natalia Imperatori y + para ver relevaiento de reglas
 - Seguimiento del alta del proyecto
 
 ## Relaciones
 
 - Depende de [[reglas]]
-- Coordinado con [[autorizador]]
-- Requiere input de [[mitigacion-riesgos]]
+- Coordinado con [[conectividad]]
+- Requiere input de [[auditoria-post-facturacion]]

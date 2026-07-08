@@ -14,9 +14,9 @@ Sistema de autorizaciones prestacionales, incluyendo la implementación de IA pa
 
 ## Proyectos
 
-- **Autorizador IA**: Automatización de autorizaciones usando inteligencia artificial
 - **Quimioterapia / DIU SIU**: Autorizaciones automáticas
 - **Regla automática de débitos**: Generar débitos cuando fecha de facturación no coincide con fecha de prestación (solicitud de Maria Laura Gambone)
+- **Motor de reglas**: Proyecto base para este producto
 
 ## Pendientes
 
@@ -32,4 +32,4 @@ Sistema de autorizaciones prestacionales, incluyendo la implementación de IA pa
 
 - Reporta a [[control-prestacional]]
 - Colabora con [[reglas]]
-- Interactúa con [[auditor-ai]]
+- Interactúa con [[puntos-de-control]]

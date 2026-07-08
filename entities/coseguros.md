@@ -20,6 +20,5 @@ Gestión de coseguros y copagos en SanCor Salud.
 
 ## Relaciones
 
-- Depende de [[uno-salud]]
+- Depende de [[conectividad]]
 - Impacta en [[facturacion]]
-- Coordinado con [[control-prestacional]]

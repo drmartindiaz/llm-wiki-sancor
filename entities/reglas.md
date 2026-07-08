@@ -22,13 +22,11 @@ confidence: medium
 
 - [[proyecto-nuevo-motor-reglas]] — Rediseño completo del motor
 - [[motor-reglas-medicamentos]] — Motor específico para medicamentos
-- [[reglas-fonoaudiologia]] — Reglas a partir de fraude en Santa Fe
-- [[reglas-cataratas]] — Diseño de reglas: >60 online, <60 autorización
 - Regla 998 vs 999 — Pendiente de validación
 
 ## Pendientes
 
-- Descripción de puesto de Jefe de Reglas Prestacionales
+- Búsaqueda de Jefe de Reglas Prestacionales
 - Relevamiento con Eveweb de reglas implementadas
 - Relevamiento de auditora interna SS (anestesia)
 - Configurar reglas de nuevas prestaciones

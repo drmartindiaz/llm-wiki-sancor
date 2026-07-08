@@ -19,6 +19,8 @@ El Control Prestacional es la gerencia estratégica dentro de la Dirección de S
 - [[puntos-de-control]] — Puntos de control y auditoría de prestaciones
 - [[comite-medico]] — Comité médico y definición de indicadores
 - [[mitigacion-riesgos]] — Mitigación de Riesgos (SMR)
+- [[i-d-i-medica]] — I+D+i Médica
+- [[gestion-administrativa-de-salud-gas]] — Gestión Administrativa de Salud (GAS)
 
 ## Proyectos Principales
 
@@ -26,13 +28,13 @@ El Control Prestacional es la gerencia estratégica dentro de la Dirección de S
 - [[anestesia-online]] — Proyecto de autorización online de anestesia
 - [[buscador-prestaciones]] — Buscador de prestaciones para prestadores y asociados
 - [[auditor-ai]] — Auditoría con inteligencia artificial
-- [[uno-salud]] — Sistema UNO Salud (configuraciones, planes, copagos)
+- [[nomenclador-prestaciones]] — Neuvo Nomenclador de Prestaciones
 
 ## Stakeholders
 
 - Gerencia Médica ([[gerencia-medica]])
 - Gerencia de Transformación Digital ([[transformacion-digital]])
-- Comercial (mesa de trabajo de mejoras en cobertura)
+- [[mesa-de-trabajo-de-mejoras-en-cobertura]] — Comercial (mesa de trabajo de mejoras en cobertura)
 - [[capital-humano]] — CH para descripciones de puesto
 - [[producto-medico]] — Producto Médico
 
@@ -40,6 +42,7 @@ El Control Prestacional es la gerencia estratégica dentro de la Dirección de S
 
 - Políticas de Cobertura (PdC): diseño, validación, implementación, comunicación
 - Auditoría post-facturación y débitos
+- [[puntos-de-control]] — Puntos de Control
 - [[coseguros]] — Incrementos y configuración
 - [[integra]] — Integración con otros sistemas
 - [[prestaciones]] — Gestión de prestaciones, inclusiones, exclusiones
@@ -48,3 +51,5 @@ El Control Prestacional es la gerencia estratégica dentro de la Dirección de S
 ## Reuniones
 
 - [[reuniones-periodicas]] — Reuniones de seguimiento del equipo (Belu, CIIPS, etc.)
+  - [[reunion-belu]] — Reunión semanal con Belén
+  - [[reunion-EGE]] — Reunión semanal con equipod e gerencia estratégica

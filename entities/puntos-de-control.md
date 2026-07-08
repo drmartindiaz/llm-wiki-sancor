@@ -21,17 +21,17 @@ confidence: medium
    - Proceso de actualización según aumento de arancel
 3. **Reglas Fonoaudiología**: A partir de fraude detectado en Santa Fe
 4. **Reglas Cataratas**: Política de cobertura y reglas por rango etario
-5. **Códigos 998 vs 999**: Configuración pendiente de validación
+5. **Códigos 998 y 999**: Configuración pendiente de validación
 
 ## Pendientes
 
 - Auditoría interna de funcionamiento de puntos de control
 - Configuración de controles para nuevas prestaciones
 - Normas del documento de desvío
+- Taller de Putots de Control: Analsis e implementación de los puntos acordados
 
 ## Relaciones
 
 - Reporta a [[control-prestacional]]
 - Colabora con [[reglas]]
 - Colabora con [[auditoria-post-facturacion]]
-- Interactúa con [[uno-salud]]

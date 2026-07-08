@@ -14,14 +14,14 @@ Proceso core de Control Prestacional: diseño, validación, implementación y co
 
 ## Ciclo de una PdC
 
-1. **Diseño**: Definición de criterios de cobertura por prestación y plan
-2. **Validación**: Con Pablo A. (Dirección) y Gerencia Médica
-3. **Implementación**: Configuración en motor de reglas, autorizador, UNO Salud
+1. **Diseño**: Definición de criterios de cobertura por prestación
+2. **Validación**: Con Gerencia Médica
+3. **Implementación**: Configuración en motor de reglas, autorizador
 4. **Comunicación**: A Experiencia, Gerencias, y colaboradores
 
 ## PdC por tipo de prestación
 
-- **Cirugía**: Cambios comunicados 6/5, implementados 13/5 con Gerencia Médica
+- **Cirugías**: Cambios comunicados 6/5, implementados 13/5 con Gerencia Médica
 - **Consultas**: Diseño de cambios post-informe de zoom
 - **Imágenes / Laboratorio / Prácticas Médicas**: Propuesta de cambio pendiente
 - **Ecodoppler / Tomografía**: Mejoras de PDC pendientes
@@ -35,7 +35,7 @@ Proceso core de Control Prestacional: diseño, validación, implementación y co
 - Ordenar políticas de cobertura, crear nuevo template, planificar productividad
 - Mirada del mercado (benchmarking)
 - Impacto económico de cada PdC
-- Automatizaciones de PdC
+- Automatizaciones de generación de Infografías resumen
 - Compra de políticas de cobertura en IECS
 
 ## Relaciones
@@ -43,4 +43,4 @@ Proceso core de Control Prestacional: diseño, validación, implementación y co
 - Definidas por [[comite-medico]]
 - Implementadas por [[reglas]]
 - Ejecutadas por [[autorizador]]
-- Supervisadas por [[puntos-de-control]]
+- Supervisadas por [[auditor-reglas]]

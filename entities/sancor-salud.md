@@ -14,25 +14,25 @@ confidence: high
 
 ### Dirección de Salud
 - **Jefe de Control Prestacional**: Martín Diaz Maffini
-- Reporta a: Gerencia Estratégica
+- Reporta a: Gerencia Estratégica: María Belén Rocchicciolli
 - Ubicación: Remoto, Buenos Aires
 
 ### Áreas del Control Prestacional
 
 | Área | Responsable | Función |
 |------|------------|---------|
-| [[reglas]] | Andrea Meolans (saliente) | Diseño y motor de reglas prestacionales |
-| [[autorizador]] | — | Sistema de autorizaciones |
-| [[puntos-de-control]] | — | Auditoría y controles |
-| [[mitigacion-riesgos]] | — | Mitigación de riesgos (SMR) |
+| [[reglas]] | Andrea Meolans | Diseño y motor de reglas prestacionales |
+| [[autorizador]] | Gervasio Frugoni | Sistema de autorizaciones |
+| [[puntos-de-control]] | Emanuel Piovano | Auditoría y controles |
+| [[mitigacion-riesgos]] | Carolina Chiaro | Mitigación de riesgos (SMR) |
 | [[comite-medico]] | — | Comité médico, indicadores |
-| [[tribu-consumo]] | — | Análisis de consumo prestacional |
-| [[i-d-i-medica]] | — | Investigación, desarrollo e innovación médica |
-| [[gestion-administrativa-salud]] | — | Gestión administrativa (GAS) |
+| [[tribu-consumo]] | Pablo Sadura | Análisis de consumo prestacional |
+| [[i-d-i-medica]] | Andrea Meolans | Investigación, desarrollo e innovación médica |
+| [[gestion-administrativa-salud]] | Adriana Alassia | Gestión administrativa (GAS) |
 
 ### Proyectos Activos
 
-Ver [[proyecto-nuevo-motor-reglas]], [[anestesia-online]], [[buscador-prestaciones]], [[auditor-ai]]
+Ver [[proyecto-nuevo-motor-reglas]], [[anestesia-online]], [[buscador-prestaciones]], [[prestaciones]]
 
 ### Equipo
 
@@ -42,6 +42,5 @@ Ver [[capital-humano]] para descripciones de puesto y contrataciones.
 
 - AS/400: Core transaccional
 - Motor de Reglas: Reglas prestacionales
-- [[uno-salud]]: Plataforma de gestión (planes, copagos, aranceles)
-- [[integra]]: Integración con otros sistemas
+- [[integra]]: Autorizacioens y auditoría
 - MicroStrategy: Tableros de control

@@ -15,7 +15,7 @@ confidence: medium
 ## Funciones
 
 - Definición de tareas e indicadores del comité médico
-- Revisión de políticas de cobertura
+- Revisión de solicitudes de ABM de prestaiones
 - Evaluación de nuevas prestaciones y tecnologías
 - Criterios de pertinencia médica (relación diagnósticos-prestaciones)
 
