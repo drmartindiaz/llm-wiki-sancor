@@ -1,29 +1,23 @@
 # Wiki Log
 
 > Chronological record of all wiki actions. Append-only.
-> Format: `## [YYYY-MM-DD] action | subject`
-> Actions: ingest, update, query, lint, create, archive, delete
 
 ## [2026-07-08] create | Wiki initialized
 - Domain: Control Prestacional en SanCor Salud
-- Structure created with SCHEMA.md, index.md, log.md
 
 ## [2026-07-08] ingest | Notion pages batch download
-- Downloaded 52 raw pages from SanCor Salud Notion (frontmatter only — content in child blocks)
-- Dispatched recursive block traversal for 15 priority pages
+- 52 raw pages from SanCor Salud Notion (frontmatter only)
+- 15 priority pages with recursive block traversal (52K lines, 5.9MB)
+- Golden source: reuniones-periodicas.md (3.6MB transcriptions)
 
-## [2026-07-08] create | Entity and concept pages
+## [2026-07-08] create | Entity and concept pages (14 total)
 Created:
-- entities/sancor-salud.md
-- entities/reglas.md
-- entities/puntos-de-control.md
-- entities/autorizador.md
-- entities/comite-medico.md
-- entities/mitigacion-riesgos.md
-- entities/proyecto-nuevo-motor-reglas.md
-- entities/anestesia-online.md
-- entities/buscador-prestaciones.md
-- entities/coseguros.md
-- entities/uno-salud.md
-- entities/reuniones-periodicas.md
-- concepts/control-prestacional.md
+- entities/sancor-salud.md, reglas.md, puntos-de-control.md, autorizador.md
+- entities/comite-medico.md, mitigacion-riesgos.md, proyecto-nuevo-motor-reglas.md
+- entities/anestesia-online.md, buscador-prestaciones.md, coseguros.md
+- entities/uno-salud.md, reuniones-periodicas.md
+- concepts/control-prestacional.md, politicas-cobertura.md
+
+## [2026-07-08] push | Repo created and pushed
+- https://github.com/drmartindiaz/llm-wiki-sancor
+- 68 files, master branch
