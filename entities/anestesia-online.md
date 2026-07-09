@@ -27,4 +27,4 @@ Proyecto para implementar la autorización online de prestaciones de anestesia.
 
 - Depende de [[reglas]]
 - Coordinado con [[conectividad]]
-- Requiere input de [[auditoria-post-facturacion]]
+- Requiere input de [[auditoria-medica-facturacion]]

@@ -20,7 +20,7 @@ El Control Prestacional es la gerencia estratégica dentro de la Dirección de S
 - [[comite-medico]] — Comité médico y definición de indicadores
 - [[mitigacion-riesgos]] — Mitigación de Riesgos (SMR)
 - [[i-d-i-medica]] — I+D+i Médica
-- [[gestion-administrativa-de-salud-gas]] — Gestión Administrativa de Salud (GAS)
+- [[gestion-administrativa-salud]] — Gestión Administrativa de Salud (GAS)
 
 ## Proyectos Principales
 
@@ -52,4 +52,4 @@ El Control Prestacional es la gerencia estratégica dentro de la Dirección de S
 
 - [[reuniones-periodicas]] — Reuniones de seguimiento del equipo (Belu, CIIPS, etc.)
   - [[reunion-belu]] — Reunión semanal con Belén
-  - [[reunion-EGE]] — Reunión semanal con equipod e gerencia estratégica
+  - [[reunion-ege]] — Reunión semanal con equipod e gerencia estratégica

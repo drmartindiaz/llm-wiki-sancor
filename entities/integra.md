@@ -14,15 +14,15 @@ Sistema construido sobre Salesforce que reemplaza a Fluir para la gestión de au
 
 ## Estado de implementación
 
-- Cobertura actual: 46% de casos ambulatorios (F4) implementados en Integra, 36% en AS400 y 18% Fluir.
+- Cobertura actual: 85% de casos ambulatorios (F4) implementados en Integra.
 - Vías de ingreso: 85% vía equipo administrativo de autorizaciones (Dirección de Operaciones), 15% vía equipo de experiencia en los CARs, 1% remanente sigue en Fluir (excepciones fuera de alcance).
-- Cobertura esperada completa (ambulatorio + internación): febrero 2027.
+- Cobertura esperada completa (ambulatorio + internación): febrero.
 - Casos que permanecen en Fluir: trasplantes, bariátrica, medicamentos de autorización previa, excepciones.
 
 ## Estructura (dos procesos principales)
 
 - **Autorizaciones**: liderado por Vicky Costa Maña (Dirección de Operaciones). Gestión migrada de Fluir a Salesforce, incluye autorización automática por [[reglas]]. Genera caso padre.
-- **Auditoría médica**: liderado por Fernando Ghione. Casos que requieren auditoría generan caso hijo automáticamente. Antes no existía reportería propia de auditoría.
+- **Auditoría médica**: liderado por Fernando. Casos que requieren auditoría generan caso hijo automáticamente. Antes no existía reportería propia de auditoría.
 
 ## Mejoras implementadas
 
@@ -32,12 +32,12 @@ Sistema construido sobre Salesforce que reemplaza a Fluir para la gestión de au
 
 ## Problemas de calidad de datos (Tablero Operativo Ambulatorio)
 
-- Datos hasta nov/dic 2025 vienen de sistemas viejos.
+- Datos hasta nov/dic vienen de sistemas viejos.
 - Ranking de acreedores y prescribientes con alto porcentaje de datos faltantes o mal cargados (códigos genéricos como P9999, P0, "no definido en origen"). Mejora observada en enero pero el tablero necesita revisión para capturar bien los datos de Integra.
 - Proceso de "sujeto a auditoría posterior" está roto/informal: no hay vinculación caso a caso con auditoría de facturación, solo una sugerencia de débito que se deriva por fuera del CRM. Falta definir criterio formal de cuándo auditoría de autorización debe derivar a auditoría de facturación.
 
 ## Relaciones
 
-- Genera datos para [[control-prestacional]] y [[sancor-salud]]
+- Genera datos para [[control-prestacional]]
 - Autorización automática vía [[reglas]]
-- Relacionado con [[puntos-de-control]] y [[auditoria-post-facturacion]]
+- Relacionado con [[puntos-de-control]] y [[auditoria-medica-facturacion]]

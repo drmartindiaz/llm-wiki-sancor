@@ -27,7 +27,7 @@ confidence: high | medium | low
 ## Tag Taxonomy
 - **Estructura**: equipo, organigrama, puesto, area, direccion, gerencia
 - **Procesos**: politica-cobertura, autorizacion, auditoria, facturacion, debitos, reglas, controles
-- **Proyectos**: motor-reglas, anestesia-online, buscador-prestaciones, coseguros, nomenclador, integra, uno-salud
+- **Proyectos**: motor-reglas, anestesia-online, buscador-prestaciones, coseguros, nomenclador, integra
 - **Sistemas**: as400, motor, autogestor, crm, tablero, microstrategy
 - **Prestaciones**: consultas, cirugia, medicamentos, laboratorio, imagenes, salud-mental, internacion
 - **Stakeholders**: comercial, gerencia-medica, sistemas, proveedores, asociados

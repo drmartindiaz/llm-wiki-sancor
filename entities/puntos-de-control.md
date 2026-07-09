@@ -34,4 +34,4 @@ confidence: medium
 
 - Reporta a [[control-prestacional]]
 - Colabora con [[reglas]]
-- Colabora con [[auditoria-post-facturacion]]
+- Colabora con [[auditoria-medica-facturacion]]
